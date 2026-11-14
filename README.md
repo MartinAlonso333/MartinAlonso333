@@ -13,11 +13,11 @@
 
 ## About me
 
-I'm a backend developer who also designs product UI and builds it with AI tools. I write code by hand, use AI to speed up my work, and review everything I ship.
+Backend developer who also designs product UI and builds it with AI tools. I write code by hand, use AI to speed up my work, and review everything I ship.
 
-I'm a Computer Engineering student at the University of Buenos Aires (FIUBA), currently in my fourth year. I enjoy solving complex problems, designing clean APIs and building reliable, maintainable software. Outside tech, I love developing and playing video games, especially the Souls series.
+Currently in my fourth year of Computer Engineering at the University of Buenos Aires (FIUBA). I enjoy solving complex problems, designing clean APIs and building reliable, maintainable software. When I'm not working on backend systems, I'm usually building video games or playing them.
 
-<p align="center">🎓 Computer Engineering at FIUBA (UBA), 4th year &nbsp;·&nbsp; 📍 Buenos Aires, Argentina &nbsp;·&nbsp; 🎮 Souls series fan</p>
+<p align="center">🎓 Computer Engineering at FIUBA (UBA), 4th year &nbsp;·&nbsp; 📍 Buenos Aires, Argentina &nbsp;·&nbsp; 🎮 Video games</p>
 
 <p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
 
