@@ -65,11 +65,7 @@ Currently in my fourth year of Computer Engineering at the University of Buenos 
 <h2 align="center">Let's talk</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/franco-martin-alonso/"><img src="assets/cards/btn-linkedin.svg" width="250" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/franco-martin-alonso/"><img src="assets/cards/btn-linkedin.svg" width="290" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://martinalonso333.github.io/#contact"><img src="assets/cards/btn-email.svg" width="290" alt="Copy email: 04francomartin@gmail.com"></a>
 </p>
-
-<p align="center"><b>Email</b> <sub>(hover the box and click the copy icon)</sub></p>
-
-```
-04francomartin@gmail.com
-```
