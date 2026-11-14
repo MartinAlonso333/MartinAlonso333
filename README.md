@@ -4,11 +4,6 @@
 
 <p align="center"><img src="assets/hero-bonfire.svg" width="100%" alt="A bonfire with a coiled sword in a gothic ruin, with the name Franco Martín Alonso"></p>
 
-<p align="center">
-  <a href="https://martinalonso333.github.io"><img src="https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/franco-martin-alonso/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
 <p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
 
 ## About me
@@ -65,7 +60,7 @@ Currently in my fourth year of Computer Engineering at the University of Buenos 
 <h2 align="center">Let's talk</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/franco-martin-alonso/"><img src="assets/cards/btn-linkedin.svg" width="290" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="https://martinalonso333.github.io/#contact"><img src="assets/cards/btn-email.svg" width="290" alt="Copy email: 04francomartin@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/franco-martin-alonso/"><img src="assets/cards/btn-linkedin.svg" width="250" alt="LinkedIn"></a>
+  <a href="https://martinalonso333.github.io"><img src="assets/cards/btn-portfolio.svg" width="250" alt="Portfolio"></a>
+  <a href="https://martinalonso333.github.io/#contact"><img src="assets/cards/btn-contact.svg" width="250" alt="Contact me"></a>
 </p>
