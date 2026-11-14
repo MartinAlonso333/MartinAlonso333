@@ -19,17 +19,6 @@ I'm a Computer Engineering student at the University of Buenos Aires (FIUBA), cu
 
 <p align="center">🎓 Computer Engineering at FIUBA (UBA), 4th year &nbsp;·&nbsp; 📍 Buenos Aires, Argentina &nbsp;·&nbsp; 🎮 Souls series fan</p>
 
-## Projects
-
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1Jin4fUM14MULA5WP2x-0ZtUrwmpuXptJ"><img src="assets/cards/card-tallio.svg" width="48%" alt="Tallio: desktop system for auto repair shops. Completed. Installer and videos."></a>
-  <a href="https://github.com/MartinAlonso333/PSA-BACKEND"><img src="assets/cards/card-psa-backend.svg" width="48%" alt="PSA Backend: REST API for campaign and lead management. Completed. Open repository."></a>
-  <a href="https://github.com/MartinAlonso333/PSA-FRONTEND"><img src="assets/cards/card-psa-frontend.svg" width="48%" alt="PSA Frontend: web interface to manage marketing campaigns and leads. Completed. Open repository."></a>
-  <a href="https://github.com/MartinAlonso333/Yet-Another-Battle-City"><img src="assets/cards/card-yabc.svg" width="48%" alt="Yet Another Battle City: tank game with an MVC architecture. Completed. Open repository."></a>
-  <img src="assets/cards/card-al-toque.svg" width="48%" alt="Al Toque: home services platform. In progress, private repository.">
-  <img src="assets/cards/card-farm-simulator.svg" width="48%" alt="Farm Simulator: multiplayer, multithreaded farm simulator in C++. In progress, private repository.">
-</p>
-
 <p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
 
 ## Skills
@@ -71,8 +60,14 @@ I'm a Computer Engineering student at the University of Buenos Aires (FIUBA), cu
 
 <p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
 
+<p align="center"><img src="assets/flame.svg" height="44" alt=""></p>
+
+<h2 align="center">Let's talk</h2>
+
 <p align="center">
-  <img src="assets/flame.svg" height="36" alt="">
-  <br>
-  <sub>Let's talk: <a href="https://www.linkedin.com/in/franco-martin-alonso/">LinkedIn</a> · <a href="mailto:04francomartin@gmail.com">04francomartin@gmail.com</a></sub>
+  <a href="https://www.linkedin.com/in/franco-martin-alonso/"><img src="assets/cards/btn-linkedin.svg" width="250" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:04francomartin@gmail.com"><img src="assets/cards/btn-email.svg" width="250" alt="Email me"></a>
 </p>
+
+<p align="center"><b>04francomartin@gmail.com</b></p>
