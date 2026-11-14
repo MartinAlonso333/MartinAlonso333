@@ -17,27 +17,18 @@ I'm a backend developer who also designs product UI and builds it with AI tools.
 
 I'm a Computer Engineering student at the University of Buenos Aires (FIUBA), currently in my fourth year. I enjoy solving complex problems, designing clean APIs and building reliable, maintainable software. Outside tech, I love developing and playing video games, especially the Souls series.
 
-| | |
-| --- | --- |
-| 🎓 **Studying** | Computer Engineering at FIUBA (UBA), 4th year |
-| 🎯 **Focus** | Backend development and systems programming |
-| 📍 **Based in** | Buenos Aires, Argentina |
-| 🎮 **Off the clock** | Video games, especially the Souls series |
-
-## Currently building
-
-- **Tallio**: a desktop management system for auto repair shops
-- **A multiplayer, multithreaded farm simulator** in C++
-- **Al Toque**: a home services platform built with Spring Boot
+<p align="center">🎓 Computer Engineering at FIUBA (UBA), 4th year &nbsp;·&nbsp; 📍 Buenos Aires, Argentina &nbsp;·&nbsp; 🎮 Souls series fan</p>
 
 ## Projects
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **Tallio** | Desktop management system for auto repair shops, sold with a one-time license | [Installer and videos](https://drive.google.com/drive/folders/1Jin4fUM14MULA5WP2x-0ZtUrwmpuXptJ) |
-| **PSA** | Marketing campaign and lead management, with a backend decoupled from the frontend through a REST API | [Backend](https://github.com/MartinAlonso333/PSA-BACKEND) · [Frontend](https://github.com/MartinAlonso333/PSA-FRONTEND) |
-| **Yet Another Battle City** | Tank game with an MVC architecture, for one or two players | [Source code](https://github.com/MartinAlonso333/Yet-Another-Battle-City) |
-| **Portfolio** | My bilingual (ES/EN) personal site with light and dark themes | [Live site](https://martinalonso333.github.io) · [Source code](https://github.com/MartinAlonso333/MartinAlonso333.github.io) |
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1Jin4fUM14MULA5WP2x-0ZtUrwmpuXptJ"><img src="assets/cards/card-tallio.svg" width="48%" alt="Tallio: desktop system for auto repair shops. Completed. Installer and videos."></a>
+  <a href="https://github.com/MartinAlonso333/PSA-BACKEND"><img src="assets/cards/card-psa-backend.svg" width="48%" alt="PSA Backend: REST API for campaign and lead management. Completed. Open repository."></a>
+  <a href="https://github.com/MartinAlonso333/PSA-FRONTEND"><img src="assets/cards/card-psa-frontend.svg" width="48%" alt="PSA Frontend: web interface to manage marketing campaigns and leads. Completed. Open repository."></a>
+  <a href="https://github.com/MartinAlonso333/Yet-Another-Battle-City"><img src="assets/cards/card-yabc.svg" width="48%" alt="Yet Another Battle City: tank game with an MVC architecture. Completed. Open repository."></a>
+  <img src="assets/cards/card-al-toque.svg" width="48%" alt="Al Toque: home services platform. In progress, private repository.">
+  <img src="assets/cards/card-farm-simulator.svg" width="48%" alt="Farm Simulator: multiplayer, multithreaded farm simulator in C++. In progress, private repository.">
+</p>
 
 <p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
 
