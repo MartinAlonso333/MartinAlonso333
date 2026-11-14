@@ -66,8 +66,10 @@ Currently in my fourth year of Computer Engineering at the University of Buenos 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/franco-martin-alonso/"><img src="assets/cards/btn-linkedin.svg" width="250" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="mailto:04francomartin@gmail.com"><img src="assets/cards/btn-email.svg" width="250" alt="Email me"></a>
 </p>
 
-<p align="center"><b>04francomartin@gmail.com</b></p>
+<p align="center"><b>Email</b> <sub>(hover the box and click the copy icon)</sub></p>
+
+```
+04francomartin@gmail.com
+```
